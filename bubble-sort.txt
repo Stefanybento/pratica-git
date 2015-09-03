@@ -1,0 +1,17 @@
+jogo das cartas
+
+regras do jogo:
+
+1 - pegar 5 cartas distintas de um baralho completo de 52 cartas
+2 - embaralhar as 5 cartas, viradas para baixo
+3 - desvirar somente 2 cartas por vez
+4 - uma vez desviradas, a única operação permitida é trocar essas cartas de lugar entre si, caso a carta da esquerda seja maior do que a carta da direita
+5 - depois de trocar (ou não) as duas cartas, vire-as de volta
+6 - uma vez desviradas, considere que você esqueceu o valor das cartas
+
+instruções do jogo:
+
+1 - compare a carta A com as cartas de B a E
+2 - compare a carta B com as cartas de C a E
+3 - compare a carta C com as cartas de D a E
+4 - compare a carta D com a carta E
