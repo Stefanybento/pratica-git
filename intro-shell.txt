@@ -1,0 +1,4 @@
+Comandos usados no Git Bash:
+1: pwd - Comando que indica a pasta do diretório
+2: cd desktop - Mudança do diretório para a pasta "Desktop"
+3: mkdir pratica-shell - Criação de nova pasta com o nome "pratica-shell" no diretório "Desktop"
