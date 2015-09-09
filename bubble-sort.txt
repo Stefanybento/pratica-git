@@ -1,0 +1,18 @@
+Comandos da pratica git bash - passo a passo 
+
+pwd
+cd desktop
+mkdir repo
+cd repo
+git init --bare
+cd ..
+git clone repo pratica-git-nome
+ls
+cd pratica-git-nome
+git config user.name "nome"
+git config user.email "email"
+git add intro-shell.txt
+git commit -m "comentário"
+git add alunos.txt
+git commit -m "comentário"
+git push origin master (empurra o clone para o original)
